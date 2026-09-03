@@ -25,6 +25,7 @@ Les skills actuellement proposées (d'autres sont en développement) sont les su
 Les skills permettent d'apporter des compétences spécifiques aux agents et plateformes d'IA (comme Vibe de Mistral, chatGPT, Claude, antigravity, etc.). Il permettent de compléter les capacités de ces outils généraliste avec des expertises de haut niveau spécifiques à une taches.
 Il s'agit d'un [standard ouvert](https://agentskills.io/home) disponible maintenant sur presque toutes les IA.
 
+
 ## Comment utiliser ces skills
 
 Une fois installées les skills se déclenche automatiquement lorsqu'un prompt demande une tache qui est couverte par les skills. Par exemple après avoir télécharger le pdf d'un article d'essais clinique et demander d'analyse ou d'interpréter cette étude, l'AI détectera que cette demande correspond à la skill 'analyse-critique-ecr' et l'utilisera pour répondre à la demande de l'utilisateur.
@@ -48,6 +49,7 @@ ou plus directement
 ```
 Installe les skills disponible dans le Github cucheratmi/_skills (https://github.com/cucheratmi/_skills)
 ```
+
 Si vous ne souhaitez installer qu'une skill particulière le préciser dans le prompt d'installation.
 
 >_Il est important d'analyser le contenu des skills avant de les installer pour écarter la possibilité de skill malveillante (par injection de prompt). Les IA font une analyse avant de faire l'installation mais rien ne vaut une inspection visuelle du contenu de la skill._
@@ -58,9 +60,11 @@ Si vous ne souhaitez installer qu'une skill particulière le préciser dans le p
 L'expertise apportée par ces skills court-circuite l'approche naive que pourrait avoir une IA généraliste sur cette tache. Cette approche basée sur une compétence parfaitement explicitée dans les skills garantie une évaluation parfaitement transparente (explicable), contrairement aux productions standards des IA. De même les skills demande à l'IA de ne se baser que sur la publication et de ne pas tenir compte d'analyses ou de commentaires externes sur cette étude qu'elle pourrait avoir ingurgité leur de son apprentissage. Cela permet d'éviter, par exemple, que la communication promotionnelle concernant le traitement évalué interfère avec l'analyse de l'étude.   
 Il est aussi demandé que l'interprétation ne tiennent pas compte de la conclusion et de la discussion des auteurs afin d'éviter les intoxications par les spins de conclusion qui pourraient être présents dans les publication.
 
+
 ## Validation 
 
 D'une manière générale l'évaluation de ces outils est difficile car la qualité du résultat produit dépend entre autres du model utilisé, de sa version, mais aussi de la boucle agentique de l'IA utilisée. les évolution technologique sur ces éléments étant tellement rapide qu'un évaluation a un moment donné ne préjugera pas de la performances des ces skills ultérieurement ou avec un nouveaux modèle ou une nouvelle IA ou boucle agentique.
+
 
 
 
