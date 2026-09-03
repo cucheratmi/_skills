@@ -47,29 +47,42 @@ Comment installer les skills disponibles dans le GitHub cucheratmi/_skills
 ou plus directement 
 
 ```
-Installe les skills disponible dans le Github cucheratmi/_skills (https://github.com/cucheratmi/_skills)
+Installe les skills disponibles dans le Github cucheratmi/_skills (https://github.com/cucheratmi/_skills)
 ```
 
-Si vous ne souhaitez installer qu'une skill particulière le préciser dans le prompt d'installation.
+Si vous ne souhaitez installer qu'une skill particulière, le préciser dans le prompt d'installation.
 
->_Il est important d'analyser le contenu des skills avant de les installer pour écarter la possibilité de skill malveillante (par injection de prompt). Les IA font une analyse avant de faire l'installation mais rien ne vaut une inspection visuelle du contenu de la skill._
+>_Il est important d'analyser le contenu des skills avant de les installer pour écarter la possibilité de skill malveillante (par injection de prompt). Les IA font une analyse avant de faire l'installation, mais rien ne vaut une inspection visuelle du contenu de la skill._
 
 
-## Interest de l'approche  
+## Intérêts de l'approche  
 
-L'expertise apportée par ces skills court-circuite l'approche naive que pourrait avoir une IA généraliste sur cette tache. Cette approche basée sur une compétence parfaitement explicitée dans les skills garantie une évaluation parfaitement transparente (explicable), contrairement aux productions standards des IA. De même les skills demande à l'IA de ne se baser que sur la publication et de ne pas tenir compte d'analyses ou de commentaires externes sur cette étude qu'elle pourrait avoir ingurgité leur de son apprentissage. Cela permet d'éviter, par exemple, que la communication promotionnelle concernant le traitement évalué interfère avec l'analyse de l'étude.   
-Il est aussi demandé que l'interprétation ne tiennent pas compte de la conclusion et de la discussion des auteurs afin d'éviter les intoxications par les spins de conclusion qui pourraient être présents dans les publication.
+L'expertise apportée par ces skills court-circuite l'approche naïve que pourrait avoir une IA généraliste sur cette tache. Cette approche basée sur une compétence parfaitement explicitée dans les skills garantit une évaluation parfaitement transparente (explicable), contrairement aux productions standards des IA. De même les skills demande à l'IA de ne se baser que sur la publication et de ne pas tenir compte d'analyses ou de commentaires externes sur cette étude qu'elle pourrait avoir ingurgitée leur de son apprentissage. Cela permet d'éviter, par exemple, que la communication promotionnelle concernant le traitement évalué interfère avec l'analyse de l'étude.   
+Il est aussi demandé que l'interprétation ne tient pas compte de la conclusion et de la discussion des auteurs afin d'éviter les intoxications par les spins de conclusion qui pourraient être présents dans les publication.
 
 
 ## Validation 
 
-D'une manière générale l'évaluation de ces outils est difficile car la qualité du résultat produit dépend entre autres du model utilisé, de sa version, mais aussi de la boucle agentique de l'IA utilisée. les évolution technologique sur ces éléments étant tellement rapide qu'un évaluation a un moment donné ne préjugera pas de la performances des ces skills ultérieurement ou avec un nouveaux modèle ou une nouvelle IA ou boucle agentique.
+D'une manière générale l'évaluation de ces outils est difficile, car la qualité du résultat produit dépend entre autres du modèle utilisé, de sa version, mais aussi de la boucle agentique de l'IA utilisée. Les évolution technologique sur ces éléments étant tellement rapide qu'un évaluation a un moment donné ne préjugera pas de la performance des ces skills ultérieurement ou avec un nouveau modèle ou une nouvelle IA ou boucle agentique.
+
+
+## Contributeurs
+
+- Michel Cucherat
+- Charles Khouri
+- Clara Locher
+- Silvy Laporte
+- Matthieu Roustit
+
+
+## Références
+
+Cucherat M, Demarcq O, Chassany O, et al. Attentes méthodologiques pour la démonstration de l’efficacité des produits de santé par les études observationnelles. Therapies. 2025;80:33–46. doi: 10.1016/j.therap.2024.10.052
+
+Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019;366:l4898. doi: 10.1136/bmj.l4898
 
 
 
-
-
-## Auteurs
 
 
 
