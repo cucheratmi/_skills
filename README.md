@@ -9,6 +9,7 @@ Les skills actuellement proposées (d'autres sont en développement) sont les su
 | --- | --- |
 | analyse-critique-ecr | Interprétation et analyse critique d'un essai randomisé de supériorité. Base sur le document de la Société Française de Pharmacologie sur la [lecture critique des essais thérapeutique](https://sfpt-fr.org/livreblancmethodo/part4/file_0.htm) |
 | analyse-critique-observationnelle-inferentielle | Interprétation et analyse critique d'une étude observationnelle inférentielle (type RWE). Basée sur le travail de la table ronde des atelier de Giens 2024 [Attentes méthodologiques pour la démonstration de l’efficacité des produits de santé par les études observationnelles](https://hal.science/hal-04812328v1/document) |
+| rob2-0 | Evaluation du risque de biais d'un essai clinique randomisés à l'aide de l'outil [ROB 2.0](https://www.bmj.com/content/366/bmj.l4898).
 
 
 

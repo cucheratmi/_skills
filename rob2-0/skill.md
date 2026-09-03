@@ -382,3 +382,9 @@ if the risk of bias is different from this global evaluation for some outcomes, 
 
 Create a summary table which sets out, for each key question in each domain: the answer (Yes | Probably yes | Probably no | No | No information), a one- or two-sentence justification, and the reference (page, section) for the information used to formulate the answer. In this table, for each domain, state your assessment of the risk of bias (**Low / Some concerns / High**). 
 
+---
+
+## Reference 
+
+A full reference document is available at https://drive.google.com/file/d/19R9savfPdCHC8XLz2iiMvL_71lPJERWK/view?pli=1
+
