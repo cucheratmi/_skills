@@ -1,11 +1,20 @@
 # INSIGHT skills (Acronyme à préciser)
 
+<p align="center">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cucheratmi/_skills"/>
+  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/cucheratmi/_skills"/>
+  <a href="https://github.com/suitenumerique/meet/blob/main/LICENSE">
+    <img alt="GitHub closed issues" src="https://img.shields.io/github/license/cucheratmi/_skills"/>
+  </a>
+</p>
+
 **Apporter à l'IA l'expertise méthodologique et statistique nécessaire pour interpréter de manière transparente les études cliniques évaluant les interventions de santé**
 
 Les skills mises à disposition ici permettent de doter les IA généralistes des compétences nécessaires pour analyser de manière critique et interpréter les résultats des études cliniques comme les essais randomisés de supériorité ou d'infériorité, les études observationnelles inférentielles (type étude de Real World Evidence), les méta-analyses, etc.
 
 Ces skills permettent à votre IA de produire un rapport évaluant une étude à partir du pdf de l'article (et éventuellement du supplément, du protocole ou du SAP) en se basant sur une expertise validée. 
 
+> [!NOTE]
 >_Attention, il convient de vérifier que l'IA que vous utilisez peut recevoir des pdf d'articles sans que cela enfreigne les dispositions légales en vigueur (ce qui pourrait avoir lieu si cette IA utilise les documents des documents pour leur apprentissage). Il y a souvent une option à cocher/décocher sur ce point._
 
 ## Skills disponibles
@@ -14,7 +23,8 @@ Les skills actuellement proposées (d'autres sont en développement) sont les su
 
 | Nom | Description et référence |
 | --- | --- |
-| analyse-critique-ecr | Interprétation et analyse critique d'un essai randomisé de supériorité. Base sur le document de la Société Française de Pharmacologie sur la [lecture critique des essais thérapeutiques.](https://sfpt-fr.org/livreblancmethodo/part4/file_0.htm) |
+| analyse-critique-ecr | Interprétation et analyse critique d'un essai randomisé de supériorité. Basée sur le document de la Société Française de Pharmacologie et de Thérapeutique sur la [lecture critique des essais thérapeutiques.](https://sfpt-fr.org/livreblancmethodo/part4/file_0.htm) |
+| analyse-marge-non-inferiorite | Évalue les aspects méthodologiques reliés à la problématique de la limite de non-infériorité (marge de non-infériorité). Basée sur le [guide EMA](https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-non-inferiority-equivalence-comparisons-clinical-trials_en.pdf) en cours d'élaboration sur les essais de non-infériorité et le document de la [Société Française de Pharmacologie et de Thérapeutique](https://sfpt-fr.org/livreblancmethodo/source/dossier%206%20-%20essai%20de%20non-inf%C3%A9riorit%C3%A9.pdf)  |
 | analyse-critique-observationnelle-inferentielle | Interprétation et analyse critique d'une étude observationnelle inférentielle (type RWE). Basée sur le travail de la table ronde des ateliers de Giens 2024 [Attentes méthodologiques pour la démonstration de l’efficacité des produits de santé par les études observationnelles](https://hal.science/hal-04812328v1/document) |
 | rob2-0 | Évaluation du risque de biais d'un essai clinique randomisés à l'aide de l'outil [ROB 2.0](https://www.bmj.com/content/366/bmj.l4898)|
 | audit-rapport-vs-avis-ct | Évalue la qualité de l'évaluation d'une étude faite par l'une de ces skills en utilisant comme benchmark l'avis de transparence portant sur la même étude. Nécessite de fournir le rapport d'analyse produit par la skill et le pdf de l'avis de transparence correspondant | 
@@ -52,6 +62,7 @@ Installe les skills disponibles dans le Github cucheratmi/_skills (https://githu
 
 Si vous souhaitez n’installer qu'une skill particulière, le préciser dans le prompt d'installation.
 
+> [!NOTE]
 >_Il est important d'analyser le contenu des skills avant de les installer pour écarter la possibilité de skill malveillante (par injection de prompt). Les IA font une analyse avant de faire l'installation, mais rien ne vaut une inspection visuelle du contenu de la skill._
 
 
@@ -73,9 +84,13 @@ Il est aussi demandé que l'interprétation ne tient pas compte de la conclusion
 D'une manière générale l'évaluation de ces outils est difficile, car la qualité du résultat produit dépend entre autres du modèle utilisé, de sa version, mais aussi de la boucle agentique de l'IA utilisée. Les évolutions technologiques sur ces éléments étant tellement rapide qu'un évaluation a un moment donné ne préjugera pas de la performance des ces skills ultérieurement ou avec un nouveau modèle ou une nouvelle IA ou boucle agentique.
 
 
-## Contributeurs et parrainages
+## Contributeurs
+- Michel Cucherat
+- Charles Khoury
+- Silvy Laporte
+- Clara Locher
+- Matthieu Roustit
 
-...
 
 
 ## Références

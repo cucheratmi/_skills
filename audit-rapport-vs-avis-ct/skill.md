@@ -21,7 +21,7 @@ Produire un audit qui répond à deux questions, et seulement ces deux questions
 - L'avis CT sert de **référentiel**, pas d'arbitre absolu de la vérité méthodologique : il matérialise le niveau minimal de vigilance qu'un rapport de qualité doit couvrir. Un rapport ne peut pas ignorer une réserve que la CT a jugée assez importante pour la mentionner.
 - **La substance prime sur la formulation.** Peu importe que le rapport utilise d'autres mots : ce qui compte est que le fond de chaque réserve CT soit retrouvé et exploité (c'est-à-dire qu'une conséquence en soit tirée sur le niveau de preuve ou la conclusion), pas seulement évoqué en passant.
 - **Cohérence ≠ identité mot pour mot.** Il s'agit d'une convergence sur : le niveau de preuve retenu, la population/place dans la stratégie thérapeutique concernée, et le degré de prudence exprimé. Un rapport peut légitimement être plus sévère que la CT s'il le justifie. En revanche, **un rapport plus optimiste que l'avis CT sans justification explicite des réserves non levées est le cas le plus problématique** pour la sécurité de la pratique médicale, et doit être signalé sans ambiguïté.
-- Cet audit **ne refait pas** une analyse critique indépendante de l'essai (c'est le rôle des compétences `analyse-critique-ecr` / `analyse-critique-etude-observationnelle`) : il compare exclusivement le rapport au contenu de l'avis CT.
+- Cet audit **ne refait pas** une analyse critique indépendante de l'essai : il compare exclusivement le rapport au contenu de l'avis CT.
 
 ## Prérequis
 
