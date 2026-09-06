@@ -23,7 +23,7 @@ Un essai de non-infériorité ne peut jamais démontrer l'absence de différence
 
 ### Étape 1 — Identifier le cadre du test de non-infériorité
 
-Extraire : le comparateur (traitement de référence actif — jamais un placebo dans un essai de NI), le critère de jugement principal, le risque alpha utilisé et son caractère uni- ou bilatéral (le standard est un test unilatéral à 2,5 %, équivalent le plus souvent à la borne d'un IC bilatéral à 95 %, parfois un IC à 90 % ou 97,5 % selon le nombre de comparaisons), et la règle de décision exacte telle que rapportée (« NI conclue si la borne supérieure/inférieure de l'IC de l'effet est meilleure que la marge »).
+Extraire : le comparateur (traitement de référence actif — très rarement un placebo), le critère de jugement principal, le risque alpha utilisé et son caractère uni- ou bilatéral (le standard est un test unilatéral à 2,5 %, équivalent le plus souvent à la borne d'un IC bilatéral à 95 %), et la règle de décision exacte telle que rapportée (« NI conclue si la borne supérieure/inférieure de l'IC de l'effet est meilleure que la marge »).
 
 ### Étape 2 — Extraire la valeur de la limite de non-infériorité et la mesure de taille d'effet concernée
 
@@ -47,9 +47,9 @@ Vérifier si chaque critère de jugement dispose de sa **propre marge, justifié
 
 ### Étape 6 — La marge a-t-elle été calculée à partir de la perte maximale d'efficacité possible (logique dite « M1 ») ?
 
-Rechercher si les auteurs justifient la marge par le raisonnement suivant, classique dans la littérature méthodologique (SFPT, EMA) :
+Rechercher si les auteurs justifient la marge par le raisonnement suivant, classique dans la littérature méthodologique (FDA, EMA) :
 
-1. Estimer l'**efficacité historique** du comparateur par rapport à son propre contrôle (le plus souvent placebo), à partir d'un essai pivot antérieur ou d'une méta-analyse.
+1. Récupérer l'**efficacité historique** du comparateur par rapport à son propre contrôle (le plus souvent placebo), à partir de l'essai pivot antérieur ou d'une méta-analyse.
 2. Retenir la **borne la plus conservatrice** (péjorative) de l'intervalle de confiance de cette efficacité historique — c'est l'« efficacité minimale garantie » du comparateur.
 3. Choisir un **pourcentage de préservation** de cette efficacité minimale (par exemple 50 %, 75 %) : la marge autorise alors de perdre au maximum (1 − pourcentage de préservation) de cette efficacité minimale garantie.
 
@@ -103,6 +103,7 @@ Structure cible :
 - **Toujours quantifier** la perte d'efficacité en deux temps distincts : perte maximale autorisée par la marge (théorique) et perte réellement compatible avec les résultats observés (bornes de l'IC observé), sans les confondre.
 - **Toujours citer la source** (page, section méthodes/protocole/SAP) de chaque valeur numérique rapportée.
 - **Signaler sans ambiguïté** toute marge autorisant une perte ≥ 100 % de l'efficacité historique démontrée du comparateur, et toute absence d'avantage par ailleurs du nouveau traitement : ce sont les deux défauts les plus critiques pour la validité du raisonnement de non-infériorité.
+- **Ne jamais se baser** sur la discussion ou la conclusion des auteurs ou de commentaires ou analyses externes
 
 ## Ressources de référence
 
