@@ -103,7 +103,8 @@ Structure cible :
 - **Toujours quantifier** la perte d'efficacité en deux temps distincts : perte maximale autorisée par la marge (théorique) et perte réellement compatible avec les résultats observés (bornes de l'IC observé), sans les confondre.
 - **Toujours citer la source** (page, section méthodes/protocole/SAP) de chaque valeur numérique rapportée.
 - **Signaler sans ambiguïté** toute marge autorisant une perte ≥ 100 % de l'efficacité historique démontrée du comparateur, et toute absence d'avantage par ailleurs du nouveau traitement : ce sont les deux défauts les plus critiques pour la validité du raisonnement de non-infériorité.
-- **Ne jamais se baser** sur la discussion ou la conclusion des auteurs ou de commentaires ou analyses externes
+- **Ne jamais se baser** sur la discussion ou la conclusion des auteurs ou sur des commentaires ou analyses externes
+- **Toujours mentionner que le rapport a été élaboré par une IA**.
 
 ## Ressources de référence
 

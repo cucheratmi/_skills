@@ -110,6 +110,8 @@ Structure cible :
 - **Une comparaison externe n'est pas une méthode standard de remplacement de l'essai randomisé.** Même rigoureusement conduite, elle ne peut être retenue pour modifier une stratégie thérapeutique que si l'ensemble des critères ci-dessus sont satisfaits ; en cas de doute substantiel sur un ou plusieurs critères majeurs (planification a priori, hypothèses causales, confusion résiduelle), conclure explicitement que le niveau de preuve est insuffisant plutôt que de trancher par accommodement.
 - **Ne jamais inventer** une justification de covariable, un DAG, une donnée de sous-groupe, une valeur de SMD/E-value ou un résultat d'outil de risque de biais qui ne serait pas rapporté dans les documents fournis : écrire explicitement « non rapporté » ou « non disponible dans les documents fournis ».
 - **Toujours citer la source** (section méthodes, protocole, SAP, tableau) de chaque élément factuel rapporté dans le rapport.
+- **Ne jamais se baser** sur la discussion ou la conclusion des auteurs ou sur des commentaires ou analyses externes
+- **Toujours mentionner** que le rapport a été élaboré par une IA.
 
 ## Ressources de référence
 

@@ -97,6 +97,8 @@ Structure cible :
 - **Toujours interpréter l'ESS conjointement avec la distribution des poids** (poids extrêmes), jamais l'ESS isolément comme unique indicateur de qualité de la pondération.
 - **Toujours vérifier la méthode d'estimation de l'incertitude** (erreurs-types robustes ou bootstrap) : son absence invalide la précision affichée de l'intervalle de confiance, indépendamment de la qualité de l'ajustement lui-même.
 - **Toujours citer la source** (tableau, section méthodes, protocole/SAP) de chaque élément factuel rapporté dans le rapport.
+- **Ne jamais se baser** sur la discussion ou la conclusion des auteurs ou sur des commentaires ou analyses externes
+- **Toujours mentionner que le rapport a été élaboré par une IA**.
 
 ## Ressources de référence
 
