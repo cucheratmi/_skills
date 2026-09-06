@@ -1,6 +1,10 @@
 ---
 name: analyse-critique-maic
 description: "Réaliser une analyse critique méthodologique d'une comparaison indirecte ajustée sur les caractéristiques individuelles des patients de type MAIC (Matching-Adjusted Indirect Comparison), ancrée ou non ancrée. Utiliser cette compétence quand l'utilisateur demande d'« analyser / évaluer / critiquer une MAIC », une « comparaison ajustée par appariement », un « matching-adjusted indirect comparison », de juger le « niveau de preuve » ou l'« acceptabilité » d'une MAIC en vue d'une décision (HTA, remboursement, avis de la Commission de la Transparence), ou téléverse la publication ou le rapport technique d'une étude MAIC."
+metadata:
+  author: "Michel Cucherat"
+  version: "1.0.0"
+  url: "https://github.com/cucheratmi/_skills"
 ---
 
 # Analyse critique d'une comparaison indirecte ajustée de type MAIC

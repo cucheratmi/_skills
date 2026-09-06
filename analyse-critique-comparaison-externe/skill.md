@@ -1,6 +1,10 @@
 ---
 name: analyse-critique-comparaison-externe
 description: "Réaliser une analyse critique méthodologique d'une étude de comparaison à un groupe contrôle externe (external control arm/ECA, externally controlled trial). Utiliser cette compétence quand l'utilisateur demande d'« analyser / évaluer / critiquer une comparaison à un groupe contrôle externe », un « bras contrôle externe », un « essai à contrôle externe », de juger l'« acceptabilité » ou le « niveau de preuve » d'une étude monobras comparée à un groupe contrôle historique ou de vraie vie en vue d'une décision (HTA, remboursement, avis de la Commission de la Transparence, positionnement thérapeutique), ou téléverse la publication ou le rapport technique d'une telle étude."
+metadata:
+  author: "Michel Cucherat"
+  version: "1.0.0"
+  url: "https://github.com/cucheratmi/_skills"
 ---
 
 # Analyse critique d'une comparaison à un groupe contrôle externe

@@ -1,6 +1,10 @@
 ---
 name: analyse-critique-ecr
 description: Réaliser une analyse critique complète d'un essai clinique randomisé (ECR) en français, orientée HTA et décision réglementaire. Utilise cette compétence quand l'utilisateur demande une "analyse critique", une "lecture critique d'article (LCA)", une "évaluation méthodologique", "analyser cet essai", "appréciation critique", "review d'un RCT", ou téléverse un PDF d'essai clinique randomisé. Produit un rapport markdown structuré avec classification des résultats, évaluation du risque de biais, pertinence clinique et conclusion orientée décision (inclure / ne pas inclure le traitement dans la stratégie thérapeutique).
+metadata:
+  author: "Michel Cucherat"
+  version: "1.0.0"
+  url: "https://github.com/cucheratmi/_skills"
 ---
 
 # Analyse critique d'un essai clinique randomisé
