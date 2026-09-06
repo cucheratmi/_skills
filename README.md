@@ -1,4 +1,4 @@
-# INSIGHT skills (Acronyme à préciser)
+# Skills Analyse critique des études cliniques
 
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cucheratmi/_skills"/>
