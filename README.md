@@ -1,12 +1,5 @@
-# SPIN-OFF — Skills pour une analyse critique transparente et explicable des études cliniques, au-delà du spin
+# SPIN-OFF — Skills pour une analyse critique transparente et explicable des études cliniques, au-delà du [spin](https://sfpt-fr.org/livreblancmethodo/part1/file_17.htm)
 
-<p align="center">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cucheratmi/_skills"/>
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/cucheratmi/_skills"/>
-  <a href="https://github.com/suitenumerique/meet/blob/main/LICENSE">
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/license/cucheratmi/_skills"/>
-  </a>
-</p>
 
 
 **Pour une analyse critique des études cliniques évaluant une intervention de santé augmentée par l’IA, transparente, explicable et fondée sur les standards méthodologiques**
