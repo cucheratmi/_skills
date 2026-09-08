@@ -2,7 +2,7 @@
 name: analyse-marge-non-inferiorite
 description: "Évaluer les aspects méthodologiques de la limite (marge) de non-infériorité utilisée dans un essai clinique randomisé de non-infériorité. Utiliser cette compétence quand l'utilisateur demande d'« analyser / évaluer / interpréter la marge de non-infériorité », « la limite de non-infériorité », « le seuil de non-infériorité » d'un essai, ou téléverse un essai de non-infériorité et veut en juger l'acceptabilité méthodologique et clinique."
 metadata:
-  author: "Michel Cucherat"
+  author: "Initiative SPIN-OFF"
   version: "1.0.0"
   url: "https://github.com/cucheratmi/_skills"
 ---

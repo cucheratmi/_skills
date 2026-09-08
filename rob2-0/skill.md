@@ -2,7 +2,7 @@
 name: rob2-0
 description: Conduct a risk of bias assessment of a randomised clinical trial using the Cochrane ROB 2.0 tool
 metadata:
-  author: "Michel Cucherat"
+  author: "Initiative SPIN-OFF"
   version: "1.0.0"
   url: "https://github.com/cucheratmi/_skills"
 ---

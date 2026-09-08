@@ -2,7 +2,7 @@
 name: robins-i
 description: Conduct a risk of bias assessment of a Non-randomized Studies of Interventions, using the ROBINS-I tool (v2)
 metadata:
-  author: "Michel Cucherat"
+  author: "Initiative SPIN-OFF"
   version: "1.0.0"
   url: "https://github.com/cucheratmi/_skills"
 ---
