@@ -11,7 +11,7 @@
 
 **Apporter à l'IA l'expertise méthodologique et statistique nécessaire pour interpréter de manière transparente les études cliniques évaluant les interventions de santé**
 
-Les skills mises à disposition ici permettent de doter les IA généralistes des compétences nécessaires pour analyser de manière critique et interpréter les résultats des études cliniques utilisées dasn l'évaluation des interventions de santé (essais randomisés de supériorité ou d'infériorité, les études observationnelles inférentielles, Real World Evidence, les comparaisons indirectes, etc.).
+Les skills mises à disposition ici permettent de doter les IA généralistes des compétences nécessaires pour analyser de manière critique et interpréter les résultats des études cliniques utilisées dans l'évaluation des interventions de santé (essais randomisés de supériorité ou d'infériorité, les études observationnelles inférentielles, Real World Evidence, les comparaisons indirectes, etc.).
 
 Ces skills permettent à votre IA de produire un rapport évaluant une étude à partir du pdf de l'article (et éventuellement du supplément, du protocole ou du SAP) en se basant sur une expertise validée. 
 
@@ -84,7 +84,7 @@ Il est aussi demandé que l'interprétation ne tient pas compte de la conclusion
 
 ## Validation 
 
-D'une manière générale l'évaluation de ces outils est difficile, car la qualité du résultat produit dépend entre autres du modèle utilisé, de sa version, mais aussi de la boucle agentique de l'IA utilisée. Les évolutions technologiques sur ces éléments étant tellement rapide qu'un évaluation a un moment donné ne préjugera pas de la performance des ces skills ultérieurement ou avec un nouveau modèle ou une nouvelle IA ou boucle agentique.
+D'une manière générale l'évaluation de ces outils est difficile, car la qualité du résultat produit dépend entre autres du LLM utilisé et de son niveau d'utilisation, de sa version, mais aussi du harnais du LLM utilisé. Les évolutions technologiques sur ces éléments étant tellement rapide qu'un évaluation a un moment donné ne préjugera pas de la performance des ces skills ultérieurement ou avec un nouveau modèle ou un nouvel harnais.
 
 
 ## Contributeurs
