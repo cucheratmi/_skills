@@ -3,6 +3,13 @@
 
 **Pour une analyse critique augmentée par l’IA des études cliniques, transparente, explicable, fondée sur les standards méthodologiques et indépendante des [spins](https://sfpt-fr.org/livreblancmethodo/part1/file_17.htm).**
 
+
+<p align="center">
+    <a href="#installation">Installation</a> &bull;
+    <a href="#comment-utiliser-ces-skills">Utilisation</a> 
+</p>
+
+
 Les skills mises à disposition ici permettent de doter les IA généralistes des compétences nécessaires pour analyser de manière critique et interpréter les résultats des études cliniques utilisées dans l'évaluation des interventions de santé (essais randomisés de supériorité ou d'infériorité, les études observationnelles inférentielles, Real World Evidence, les comparaisons indirectes, etc.).
 
 Ces skills permettent à votre IA de produire un rapport évaluant une étude à partir du pdf de l'article (et éventuellement du supplément, du protocole ou du SAP) en se basant sur une expertise validée. 
