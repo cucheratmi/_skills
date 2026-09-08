@@ -1,4 +1,5 @@
-# Skills Analyse critique des études cliniques
+# Skills pour une analyse critique des études cliniques augmentée par IA
+
 
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cucheratmi/_skills"/>
