@@ -1,7 +1,7 @@
 # SPIN-OFF — Skills pour une analyse critique transparente et explicable des études cliniques, au-delà du spin
 
 
-**Pour une analyse critique des études cliniques évaluant une intervention de santé augmentée par l’IA, transparente, explicable, fondée sur les standards méthodologiques et indépendante des [spins](https://sfpt-fr.org/livreblancmethodo/part1/file_17.htm).**
+**Pour une analyse critique augmentée par l’IA des études cliniques, transparente, explicable, fondée sur les standards méthodologiques et indépendante des [spins](https://sfpt-fr.org/livreblancmethodo/part1/file_17.htm).**
 
 Les skills mises à disposition ici permettent de doter les IA généralistes des compétences nécessaires pour analyser de manière critique et interpréter les résultats des études cliniques utilisées dans l'évaluation des interventions de santé (essais randomisés de supériorité ou d'infériorité, les études observationnelles inférentielles, Real World Evidence, les comparaisons indirectes, etc.).
 
@@ -108,7 +108,6 @@ L'utilisation de ces skills nécessite de vérifier que le téléchargement sur 
 - NICE DSU Technical Support Document 18 — Methods for population-adjusted indirect comparisons in submissions to NICE (Phillippo *et al.*, 2016). [PDF](https://sheffield.ac.uk/media/34216/download)
 
 - [Livre blanc SFPT — Essai de non-infériorité](https://sfpt-fr.org/livreblancmethodo/source/dossier%206%20-%20essai%20de%20non-inf%C3%A9riorit%C3%A9.pdf)
-
 
 - Société Française de Pharmacologie et de Thérapeutique (SFPT), Groupe de Travail Méthodologie. *Comparaisons à un groupe contrôle externe* — Document de synthèse, version 1.0, avril 2026.
 
