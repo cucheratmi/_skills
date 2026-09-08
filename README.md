@@ -1,8 +1,7 @@
-# SPIN-OFF — Skills pour une analyse critique transparente et explicable des études cliniques, au-delà du [spin](https://sfpt-fr.org/livreblancmethodo/part1/file_17.htm)
+# SPIN-OFF — Skills pour une analyse critique transparente et explicable des études cliniques, au-delà du spin
 
 
-
-**Pour une analyse critique des études cliniques évaluant une intervention de santé augmentée par l’IA, transparente, explicable et fondée sur les standards méthodologiques**
+**Pour une analyse critique des études cliniques évaluant une intervention de santé augmentée par l’IA, transparente, explicable, fondée sur les standards méthodologiques et indépendante des [spins](https://sfpt-fr.org/livreblancmethodo/part1/file_17.htm).**
 
 Les skills mises à disposition ici permettent de doter les IA généralistes des compétences nécessaires pour analyser de manière critique et interpréter les résultats des études cliniques utilisées dans l'évaluation des interventions de santé (essais randomisés de supériorité ou d'infériorité, les études observationnelles inférentielles, Real World Evidence, les comparaisons indirectes, etc.).
 
@@ -15,16 +14,17 @@ Ces skills permettent à votre IA de produire un rapport évaluant une étude à
 
 Les skills actuellement proposées (d'autres sont en développement) sont les suivantes.
 
-| Nom | Description et référence |
-| --- | --- |
-| analyse-critique-ecr | Interprétation et analyse critique d'un essai randomisé de supériorité. Basée sur le document de la Société Française de Pharmacologie et de Thérapeutique sur la [lecture critique des essais thérapeutiques.](https://sfpt-fr.org/livreblancmethodo/part4/file_0.htm) |
-| analyse-marge-non-inferiorite | Évalue les aspects méthodologiques reliés à la problématique de la limite de non-infériorité (marge de non-infériorité). Basée sur le [guide EMA](https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-non-inferiority-equivalence-comparisons-clinical-trials_en.pdf) en cours d'élaboration sur les essais de non-infériorité et le document de la [Société Française de Pharmacologie et de Thérapeutique](https://sfpt-fr.org/livreblancmethodo/source/dossier%206%20-%20essai%20de%20non-inf%C3%A9riorit%C3%A9.pdf)  |
-| analyse-critique-observationnelle-inferentielle | Interprétation et analyse critique d'une étude observationnelle inférentielle (type RWE). Basée sur le travail de la table ronde des ateliers de Giens 2024 [Attentes méthodologiques pour la démonstration de l’efficacité des produits de santé par les études observationnelles](https://hal.science/hal-04812328v1/document) |
-| analyse-critique-comparaison-externe | Interprétation et analyse critique d'une comparaison à un groupe contrôle externe (ECA external comparison arm). Basée sur le document de la [Société Française de Pharmacologie et de Thérapeutique](https://sfpt-fr.org/livreblancmethodo/source/GCE.pdf)  |
-| rob2-0 | Évaluation du risque de biais d'un essai clinique randomisés à l'aide de l'outil [ROB 2.0](https://www.bmj.com/content/366/bmj.l4898)|
-| analyse-critique-maic | Interprétation et analyse critique d'une comparaison indirecte de type MAIC (Matched Adjusted Indirect Comparison) ancrée ou non ancrée |
-| audit-rapport-vs-avis-ct | Évalue la qualité de l'évaluation d'une étude faite par l'une de ces skills en utilisant comme benchmark l'avis de transparence portant sur la même étude. Nécessite de fournir le rapport d'analyse produit par la skill et le pdf de l'avis de transparence correspondant | 
+| Nom | Version | Description et référence |
+| --- | --- | --- |
+| analyse-critique-ecr | V1.0 | Interprétation et analyse critique d'un essai randomisé de supériorité. Basée sur le document de la Société Française de Pharmacologie et de Thérapeutique sur la [lecture critique des essais thérapeutiques.](https://sfpt-fr.org/livreblancmethodo/part4/file_0.htm) |
+| analyse-marge-non-inferiorite | V1.0 | Évalue les aspects méthodologiques reliés à la problématique de la limite de non-infériorité (marge de non-infériorité). Basée sur le [guide EMA](https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-non-inferiority-equivalence-comparisons-clinical-trials_en.pdf) en cours d'élaboration sur les essais de non-infériorité et le document de la [Société Française de Pharmacologie et de Thérapeutique](https://sfpt-fr.org/livreblancmethodo/source/dossier%206%20-%20essai%20de%20non-inf%C3%A9riorit%C3%A9.pdf)  |
+| analyse-critique-observationnelle-inferentielle | V1.0 | Interprétation et analyse critique d'une étude observationnelle inférentielle (type RWE). Basée sur le travail de la table ronde des ateliers de Giens 2024 [Attentes méthodologiques pour la démonstration de l’efficacité des produits de santé par les études observationnelles](https://hal.science/hal-04812328v1/document) |
+| analyse-critique-comparaison-externe | V1.0 | Interprétation et analyse critique d'une comparaison à un groupe contrôle externe (ECA external comparison arm). Basée sur le document de la [Société Française de Pharmacologie et de Thérapeutique](https://sfpt-fr.org/livreblancmethodo/source/GCE.pdf)  |
+| rob2-0 | draft | Évaluation du risque de biais d'un essai clinique randomisés à l'aide de l'outil [ROB 2.0](https://www.bmj.com/content/366/bmj.l4898)|
+| analyse-critique-maic | V1.0 | Interprétation et analyse critique d'une comparaison indirecte de type MAIC (Matched Adjusted Indirect Comparison) ancrée ou non ancrée |
+| audit-rapport-vs-avis-ct | V1.0 | Évalue la qualité de l'évaluation d'une étude faite par l'une de ces skills en utilisant comme benchmark l'avis de transparence portant sur la même étude. Nécessite de fournir le rapport d'analyse produit par la skill et le pdf de l'avis de transparence correspondant | 
 
+>Ces skills sont encore en développement et sont susceptibles d'évoluer rapidement. Des mises à jour seront mis en ligne régulièrement. 
 
 ## Généralités sur les skills (compétences)
 
