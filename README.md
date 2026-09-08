@@ -1,5 +1,4 @@
-# Skills pour une analyse critique des études cliniques augmentée par IA
-
+# SPIN-OFF — Skills pour une analyse critique transparente et explicable des études cliniques, au-delà du spin
 
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/cucheratmi/_skills"/>
@@ -9,7 +8,8 @@
   </a>
 </p>
 
-**Apporter à l'IA l'expertise méthodologique et statistique nécessaire pour interpréter de manière transparente les études cliniques évaluant les interventions de santé**
+
+**Pour une analyse critique des études cliniques évaluant une intervention de santé augmentée par l’IA, transparente, explicable et fondée sur les standards méthodologiques**
 
 Les skills mises à disposition ici permettent de doter les IA généralistes des compétences nécessaires pour analyser de manière critique et interpréter les résultats des études cliniques utilisées dans l'évaluation des interventions de santé (essais randomisés de supériorité ou d'infériorité, les études observationnelles inférentielles, Real World Evidence, les comparaisons indirectes, etc.).
 
@@ -94,18 +94,44 @@ D'une manière générale l'évaluation de ces outils est difficile, car la qual
 - Clara Locher
 - Matthieu Roustit
 
+## Utilisation
 
+L'utilisation de ces skills nécessite de vérifier que le téléchargement sur l'outil d'IA des pdf des articles n'enfreint pas la législation en vigueur, par exemple en s'assurant dans le paramétrage et les conditions d'utilisation que les documents de l'utilisateur ne sont pas utilisés pour l'apprentissage du LLM. 
 
 ## Références
 
-Société Française de Pharmacologie te de Thérapeutique. Livre blanc - De la nécessité de la méthodologie dans l’évaluation des médicaments. https://sfpt-fr.org/livreblancmethodo/index.htm (accessed 4 September 2026)
+- Société Française de Pharmacologie te de Thérapeutique. Livre blanc - De la nécessité de la méthodologie dans l’évaluation des médicaments. https://sfpt-fr.org/livreblancmethodo/index.htm (accessed 4 September 2026)
  
-Cucherat M, Demarcq O, Chassany O, et al. Attentes méthodologiques pour la démonstration de l’efficacité des produits de santé par les études observationnelles. Therapies. 2025;80:33–46. doi: 10.1016/j.therap.2024.10.052
+- Cucherat M, Demarcq O, Chassany O, et al. Attentes méthodologiques pour la démonstration de l’efficacité des produits de santé par les études observationnelles. Therapies. 2025;80:33–46. doi: 10.1016/j.therap.2024.10.052
 
-Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019;366:l4898. doi: 10.1136/bmj.l4898
+- Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019;366:l4898. doi: 10.1136/bmj.l4898
+
+- Vanier A, Fernandez J, Kelley S, *et al.* Rapid access to innovative medicinal products while ensuring relevant health technology assessment. Position of the French National Authority for Health. *BMJ Evid Based Med* 2023. [PMC10850619](https://pmc.ncbi.nlm.nih.gov/articles/PMC10850619/)
+
+- Methodological Guideline for Quantitative Evidence Synthesis: Direct and Indirect Comparisons (Joint Clinical Assessment, Commission européenne). [PDF](https://health.ec.europa.eu/document/download/4ec8288e-6d15-49c5-a490-d8ad7748578f_en?filename=hta_methodological-guideline_direct-indirect-comparisons_en.pdf)
+
+- Practical Guideline for Quantitative Evidence Synthesis: Direct and Indirect Comparisons (Joint Clinical Assessment, Commission européenne). [PDF](https://health.ec.europa.eu/document/download/1f6b8a70-5ce0-404e-9066-120dc9a8df75_en?filename=hta_practical-guideline_direct-and-indirect-comparisons_en.pdf)
+
+- NICE DSU Technical Support Document 18 — Methods for population-adjusted indirect comparisons in submissions to NICE (Phillippo *et al.*, 2016). [PDF](https://sheffield.ac.uk/media/34216/download)
+
+- [Livre blanc SFPT — Essai de non-infériorité](https://sfpt-fr.org/livreblancmethodo/source/dossier%206%20-%20essai%20de%20non-inf%C3%A9riorit%C3%A9.pdf)
 
 
+- Société Française de Pharmacologie et de Thérapeutique (SFPT), Groupe de Travail Méthodologie. *Comparaisons à un groupe contrôle externe* — Document de synthèse, version 1.0, avril 2026.
 
+- FDA/CDER/CBER. *Considerations for the Design and Conduct of Externally Controlled Trials for Drug and Biological Products* — Guidance for Industry. [PDF](https://www.fda.gov/media/164960/download)
+
+- ICH E10. *Choice of Control Group in Clinical Trials* — définition de référence de l'*externally controlled trial*.
+
+- Cashin AG, Hansford HJ, Hernán MA, et al. Transparent Reporting of Observational Studies Emulating a Target Trial — The **TARGET** Statement. *JAMA* 2025.
+
+- Sterne JA, Hernán MA, Reeves BC, et al. **ROBINS-I** : a tool for assessing risk of bias in non-randomised studies of interventions. *BMJ* 2016;355:i4919.
+
+- Bykov K, Jaksa A, Lund JL, et al. **APPRAISE** : A Tool for Appraising Potential for Bias in Real-world Evidence Studies on Medication Effectiveness or Safety. *Value Health* 2025.
+
+- VanderWeele TJ, Ding P. Sensitivity Analysis in Observational Research: Introducing the **E-Value**. *Ann Intern Med* 2017;167:268–74.
+
+- Desai RJ, Wang SV, Sreedhara SK, et al. Process guide for inferential studies using healthcare data from routine clinical practice to evaluate causal effects of drugs (**PRINCIPLED**). *BMJ* 2024;384:e076460.
 
 
 
