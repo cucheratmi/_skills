@@ -1,4 +1,4 @@
-# SPIN-OFF — Skills pour une analyse critique transparente et explicable des études cliniques, au-delà du spin
+# SPIN-OFF — Skills pour une analyse critique des études cliniques transparente et explicable, au-delà du spin
 
 
 **Pour une analyse critique des études cliniques augmentée par l’IA , transparente, explicable, fondée sur les standards méthodologiques et indépendante des [spins](https://sfpt-fr.org/livreblancmethodo/part1/file_17.htm).**
