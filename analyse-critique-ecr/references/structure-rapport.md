@@ -39,9 +39,6 @@ Format cible : `.md`. Style sobre, orienté décideur HTA.
 - Population d'analyse principale (ITT, mITT), gestion des événéments intercurrents
 - Gestion des données manquantes
 
-### 2.4 Caractéristiques de base
-- Tableau comparatif des deux groupes
-- Signaler tout déséquilibre sur variable pronostique majeure
 
 ## 3. Évaluation du risque de biais 
 

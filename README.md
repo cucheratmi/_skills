@@ -14,8 +14,8 @@ Les skills mises à disposition ici permettent de doter les IA généralistes de
 
 Ces skills permettent à votre IA de produire un rapport évaluant une étude à partir du pdf de l'article (et éventuellement du supplément, du protocole ou du SAP) en se basant sur une expertise validée. 
 
-> [!NOTE]
->_Attention, il convient de vérifier que l'IA que vous utilisez peut recevoir des pdf d'articles sans que cela enfreigne les dispositions légales en vigueur (ce qui pourrait avoir lieu si cette IA utilise les documents des documents pour leur apprentissage). Il y a souvent une option à cocher/décocher sur ce point._
+> [!IMPORTANT]
+>_Attention, il convient de vérifier que l'IA que vous utilisez peut recevoir des pdf d'articles sans que cela enfreigne les dispositions légales en vigueur (ce qui pourrait avoir lieu si cette IA utilise les documents des documents pour leur apprentissage par exemple. Il y a souvent une option à cocher/décocher sur ce point.)_
 
 ## Skills disponibles
 
@@ -65,7 +65,7 @@ Installe les skills disponibles dans le Github cucheratmi/_skills (https://githu
 
 Si vous souhaitez n’installer qu'une skill particulière, le préciser dans le prompt d'installation.
 
-> [!NOTE]
+> [!WARNING]
 >_Il est important d'analyser le contenu des skills avant de les installer pour écarter la possibilité de skill malveillante (par injection de prompt). Les IA font une analyse avant de faire l'installation, mais rien ne vaut une inspection visuelle du contenu de la skill._
 
 

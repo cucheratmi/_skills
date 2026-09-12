@@ -16,6 +16,9 @@ ou à un décideur réglementaire, qui répond à la question : **cet essai
 apporte-t-il les preuves nécessaires pour intégrer le traitement dans la
 stratégie thérapeutique ?**
 
+Si l'article rapporte simultanément 2 essais de phase 3 identiques (comme cela était demandé avant par la FDA) voir `references/essais-jumeaux`.
+
+
 ## Principe axiomatique
 
 Il faut des **preuves au-delà de tout doute raisonnable d'un bénéfice
@@ -106,6 +109,8 @@ Suivre la structure définie dans `references/structure-rapport.md`.
 - **Ne pas combler les manques** : si une donnée n'est pas dans
   l'article, l'écrire explicitement (« non rapporté ») plutôt que
   d'inventer ou d'extrapoler.
+- **Renvoyer au Guide SFPT de lecture critique des essais thérapeutiques** pour expliquer 
+les limites méthodologiques identifiées.  
 
 ## Ressources de référence
 
