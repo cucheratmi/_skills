@@ -36,7 +36,7 @@ Format cible : `.md`. Style sobre, orienté décideur HTA.
 ### 2.3 Analyse statistique
 - Hypothèses (taille d'effet attendue, puissance, alpha)
 - Gestion de la multiplicité, liste des critères avec gestion de la multiplicité (mention que les autres critères ne permettant pas d'inférer l'effet du traitement)
-- Population d'analyse principale (ITT, mITT), gestion des événéments intercurrents
+- Population d'analyse principale (ITT, mITT), gestion des événements intercurrents
 - Gestion des données manquantes
 
 
@@ -58,7 +58,7 @@ Pour chaque catégorie, tableau standardisé :
 
 ## 5. Sécurité et balance bénéfice/risque
 
-- Effets indésirables suceotible de contrebalancer le bénéfice quantitativement ou qualitativement
+- Effets indésirables susceptible de contrebalancer le bénéfice quantitativement ou qualitativement
 - Effets indésirables d'intérêt particulier
 - Décès liés au traitement
 - Calcul explicite de la balance B/R sur les principaux critères
@@ -67,6 +67,7 @@ Pour chaque catégorie, tableau standardisé :
 
 - Validité externe (généralisation à la population française)
 - Comparateur (loyal vs dépassé)
+- Homogénéité de l'effet pour tous les patients inclus (avec une vigilance particulière pour l'inclusion de patients pour lesquels le bénéfice attendu était spéculatif)
 - Conflits d'intérêt et rôle du sponsor
 - Cohérence protocole / SAP / publication
 - Données manquantes
@@ -75,9 +76,8 @@ Pour chaque catégorie, tableau standardisé :
 ## 8. Conclusion orientée décision
 
 Réponse explicite à :
-1. Quels résultats sont **suffisamment probants** pour démontrer l'interet clinique du traitement étudié ?
+1. Quels résultats sont **suffisamment probants** pour démontrer l’intérêt clinique du traitement étudié ?
 2. Le traitement doit-il être **inclus** dans la stratégie thérapeutique ? Pour quelle population ? À quelle place (1ʳᵉ ligne, 2ᵈᵉ ligne, recours) ?
-3. Quelles **incertitudes résiduelles** justifient des données complémentaires (étude post-AMM, registre, vie réelle, étude tête-à-tête vs comparateur actuel) ?
 
 
 ---
