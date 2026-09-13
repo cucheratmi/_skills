@@ -54,7 +54,7 @@ intercurrents, gestion des données manquantes
 
 ### Étape 3 — Classer chaque résultat
 
-Pour chaque résultat de l'essai, appliquer la grille de classification
+Pour chaque résultat mis en avant dans l'essai, appliquer la grille de classification
 (voir `references/classification-resultats.md`). Les catégories sont :
 
 1.  **Suffisamment probant** — démontré, pertinent, balance B/R
@@ -70,11 +70,14 @@ Pour chaque résultat de l'essai, appliquer la grille de classification
 
 Pour chaque résultat, détailler : - **Critère de jugement** (et
 population concernée si sous-groupe) - **Taille de l'effet** (effet
-relatif + effet absolu + IC95 %) - **Contrôle du risque alpha global**
+relatif + effet absolu) - **Contrôle du risque alpha global**
 (signification statistique en terme de risque alpha global) - **Risque
 de biais** (voir `references/risque-de-biais.md`) - **Pertinence
 clinique** (cliniquement signifiant ? MCID franchi ? critère pertinent
 pour patient/régulateur ?)
+
+Ne pas considérer tous les résultats mais seulement ceux qui peuvent être décisifs pour la décision. Pour les sous-groupes ne pas tenir compte à ce niveau des résultats des analyses en sous-groupes ordinaires mais seulement ceux avec contrôle de la multiplicité.
+
 
 ### Étape 4 — Conclusion orientée décision
 
