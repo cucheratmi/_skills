@@ -3,7 +3,7 @@ name: analyse-critique-ecr
 description: Réaliser une analyse critique complète d'un essai clinique randomisé (ECR) en français, orientée HTA et décision réglementaire. Utilise cette compétence quand l'utilisateur demande une "analyse critique", une "lecture critique d'article (LCA)", une "évaluation méthodologique", "analyser cet essai", "appréciation critique", "review d'un RCT", ou téléverse un PDF d'essai clinique randomisé. Produit un rapport markdown structuré avec classification des résultats, évaluation du risque de biais, pertinence clinique et conclusion orientée décision (inclure / ne pas inclure le traitement dans la stratégie thérapeutique).
 metadata:
   author: "Initiative SPIN-OFF"
-  version: "1.0.0"
+  version: "0.1.0"
   url: "https://github.com/cucheratmi/_skills"
 ---
 
@@ -15,6 +15,9 @@ Produire un rapport d'analyse critique d'un ECR destiné à un comité HTA
 ou à un décideur réglementaire, qui répond à la question : **cet essai
 apporte-t-il les preuves nécessaires pour intégrer le traitement dans la
 stratégie thérapeutique ?**
+
+Suivre scrupuleusement la démarche et les critères mentionnés dans cette skill.
+Le rapport doit être concis tout en étant suffisamment transparent dans la logique suivie pour l'évaluation des différents critères.    
 
 Si l'article rapporte simultanément 2 essais de phase 3 identiques (comme cela était demandé avant par la FDA) voir `references/essais-jumeaux`.
 
@@ -76,7 +79,8 @@ de biais** (voir `references/risque-de-biais.md`) - **Pertinence
 clinique** (cliniquement signifiant ? MCID franchi ? critère pertinent
 pour patient/régulateur ?)
 
-Ne pas considérer tous les résultats mais seulement ceux qui peuvent être décisifs pour la décision. Pour les sous-groupes ne pas tenir compte à ce niveau des résultats des analyses en sous-groupes ordinaires mais seulement ceux avec contrôle de la multiplicité.
+Ne pas considérer tous les résultats mais seulement ceux qui peuvent être décisifs pour la décision. 
+Pour les sous-groupes ne pas tenir compte à ce niveau des résultats des analyses en sous-groupes ordinaires mais seulement ceux avec contrôle de la multiplicité.
 
 
 ### Étape 4 — Conclusion orientée décision
@@ -99,6 +103,7 @@ Suivre la structure définie dans `references/structure-rapport.md`.
 - **ne pas tenir compte** de la discussion et de la conclusion des
   auteurs, ni de commentaires externes. N'utiliser que les informations
   disponibles dans les documents fournis.
+- **ne pas mentionner d'autres interprétations des résultats** que celle effectuées avec les instructions et les critères mentionnés dans cette skill   
 - **Ne jamais surestimer un résultat** : un résultat post-hoc, sans
   controle de la multiplicité, ou de sous-groupe non pré-spécifié reste
   « insuffisamment probant », même si p \< 0,05.
@@ -112,8 +117,7 @@ Suivre la structure définie dans `references/structure-rapport.md`.
 - **Ne pas combler les manques** : si une donnée n'est pas dans
   l'article, l'écrire explicitement (« non rapporté ») plutôt que
   d'inventer ou d'extrapoler.
-- **Renvoyer au Guide SFPT de lecture critique des essais thérapeutiques** pour expliquer 
-les limites méthodologiques identifiées.  
+
 
 ## Ressources de référence
 

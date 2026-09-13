@@ -67,6 +67,8 @@ Installe les skills disponibles dans le Github cucheratmi/_skills (https://githu
 
 Si vous souhaitez n’installer qu'une skill particulière, le préciser dans le prompt d'installation.
 
+Il est possible d'installer les skills sans passer par les prompts. En fonction des AI cela peut se faire à l'aide du menu  (Claude, chatGPT) ou en recopiant ces fichiers dans des répertoires dédiés.
+
 > [!WARNING]
 >_Il est important d'analyser le contenu des skills avant de les installer pour écarter la possibilité de skill malveillante (par injection de prompt). Les IA font une analyse avant de faire l'installation, mais rien ne vaut une inspection visuelle du contenu de la skill._
 
