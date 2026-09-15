@@ -40,6 +40,14 @@ continuer.
 Identifier en passant : nom de l'essai, sponsor, registre (NCT…), revue,
 année, phase.
 
+**Classer les documents fournis par ordre chronologique de conception**
+(protocole initial, amendements datés, plan d'analyse statistique/SAP,
+design paper publié avant les résultats, puis article de résultats).
+Le document le plus ancien disponible est la seule référence valable
+pour qualifier ce qui a été décidé « a priori » ; l'article de résultats,
+même dans sa section Méthodes, décrit ce qui a été fait — pas forcément
+ce qui avait été prévu avant le verrouillage de la base.
+
 ### Étape 2 — Décrire l'étude (PICOT-S)
 
 Extraire de manière concise : - **P** Population : critères d'inclusion
@@ -50,7 +58,8 @@ critère principal, critères secondaires avec controles de la
 multiplicité, critères exploratoires, sécurité - **T** Timing : durée de
 suivi, dates de l'essai - **S** Setting : pays, type de centres,
 contexte de soin - **Méthodologie** : design (parallèle, cross-over,
-factoriel, adaptatif), randomisation, aveugle, plan de contrôle du
+factoriel, adaptatif), nature de l'hypothèse principale déclarée a
+priori (supériorité / non-infériorité), randomisation, aveugle, plan de contrôle du
 risque alpha, analyses intermédiaires, population d'analyse principale
 (ITT, mITT, per-protocole) ou méthode de gestion des événements
 intercurrents, gestion des données manquantes
@@ -85,13 +94,14 @@ Pour les sous-groupes ne pas tenir compte à ce niveau des résultats des analys
 
 ### Étape 4 — Conclusion orientée décision
 
-Rédiger une conclusion synthétique qui répond explicitement : - Quels
-résultats sont **suffisamment probants** pour garantir l'intéret du
-traitement évalué ? - Quels effets indésirables menacent la balance B/R
-? - Le traitement doit-il être **inclus** dans la stratégie
+Rédiger une conclusion synthétique qui répond explicitement : 
+- Quels résultats sont **suffisamment probants** pour garantir l'intéret du
+traitement évalué ?
+- Quels effets indésirables menacent la balance B/R ? 
+- Le traitement doit-il être **inclus** dans la stratégie
 thérapeutique ? Pour quelle population, à quelle place (1ʳᵉ ligne, 2ᵈᵉ
-ligne, recours), avec quelles précautions ? - Quelles **incertitudes
-résiduelles** justifient de ne pas inclure le traitement évélué dans la
+ligne, recours), avec quelles précautions ? 
+- Quelles **incertitudes résiduelles** justifient de ne pas inclure le traitement évalué dans la
 stratégie thérapeutique ?
 
 ### Étape 6 — Produire un rapport en markdown
@@ -107,8 +117,17 @@ Suivre la structure définie dans `references/structure-rapport.md`.
 - **Ne jamais surestimer un résultat** : un résultat post-hoc, sans
   controle de la multiplicité, ou de sous-groupe non pré-spécifié reste
   « insuffisamment probant », même si p \< 0,05.
-- **Toujours quantifier** : taille d'effet absolue (différence de
-  risque, NNT), pas seulement relative (RR, HR, OR).
+- **Vérifier systématiquement la nature a priori de l'hypothèse testée**
+  en remontant au document de conception ou au protocole le plus ancien disponible — jamais à la
+  seule section Méthodes de l'article de résultats. Une bascule entre
+  types d'hypothèses (ex. non-infériorité → supériorité après échec de la
+  non-infériorité) n'est recevable comme hypothético-déductive que si un
+  document antérieur au verrouillage de la base la mentionne
+  explicitement ; à défaut, le résultat qui en découle est
+  « insuffisamment probant », quels que soient sa significativité
+  statistique et son absence de biais.
+- **Toujours quantifier** : taille d'effet relatif (RR: risk ratio, HR: hazard ratio, OR: odds ratio) et taille d'effet absolue (différence de
+  risque (RD), différence de médianes, delta RMST).
 - **Toujours examiner la sécurité** : un essai sans analyse approfondie
   des effets indésirables est incomplet. Une décision d'inclusion exige
   une balance B/R explicite.
