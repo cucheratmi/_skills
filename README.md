@@ -93,7 +93,9 @@ La skill d'évaluation des essais cliniques a été évaluée à l'aide d'un ben
 
 Ces résultats ont été obtenus avec claude sonnet 5 high. Ce niveau de performance peut cependant être différent avec d'autres du LLM, ou niveau d'utilisation, ou harnais. Les évolutions technologiques sur ces éléments étant tellement rapide qu'une évaluation a un moment donné ne préjugera pas de la performance de ces skills ultérieurement ou avec un nouveau modèle ou un nouveau harnais.
 
-Ces skills ne sont qu'un outil pour faciliter le travail d'évaluation de ces études ou pour faire bénéficier des lecteurs non méthodologistes d'une expertise renforcée. En aucun cas, ces outils ne doivent être considérés comme infaillibles. En particulier, ils peuvent ne pas comprendre des méthodes très inhabituelles ou des rédactions peu précises. De plus, comme nous, ils ne peuvent pas détecter la fraude bien faite. 
+Ces skills ne sont que des outils pour faciliter le travail d'évaluation de ces types études ou pour apporter aux lecteurs non méthodologistes d'une expertise renforcée. En aucun cas, ces outils ne doivent être considérés comme infaillibles. En particulier, ils peuvent ne pas comprendre des méthodes très inhabituelles ou des rédactions peu précises. De plus, comme nous, ils ne peuvent pas détecter la fraude bien faite. 
+
+Leur évaluation correcte de la pertinence clinique du comparateur ou de la taille de l'effet peut nécessiter de leur donner des points de repères dans le prompt (stratégie de traitement actuelle de ces patients, taille d'effet attendue, etc.).
 
 
 ## Contributeurs
