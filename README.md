@@ -87,7 +87,13 @@ Il est aussi demandé que l'interprétation ne tient pas compte de la conclusion
 
 ## Validation 
 
-D'une manière générale l'évaluation de ces outils est difficile, car la qualité du résultat produit dépend entre autres du LLM utilisé et de son niveau d'utilisation, de sa version, mais aussi du harnais du LLM utilisé. Les évolutions technologiques sur ces éléments étant tellement rapide qu'un évaluation a un moment donné ne préjugera pas de la performance des ces skills ultérieurement ou avec un nouveau modèle ou un nouvel harnais.
+La skill d'évaluation des essais cliniques a été évaluée à l'aide d'un benchmark de 24 essais. Le taux d’exactitude sur les différents domaines évalués varie de 92% à 100%. 
+
+<img src="image.png" alt="Benchmark des 24 essais" style="width: 60%; max-width: 600px; margin: 0 auto; display: block;" />
+
+Ces résultats ont été obtenus avec claude sonnet 5 high. Ce niveau de performance peut cependant être différent avec d'autres du LLM, ou niveau d'utilisation, ou harnais. Les évolutions technologiques sur ces éléments étant tellement rapide qu'une évaluation a un moment donné ne préjugera pas de la performance de ces skills ultérieurement ou avec un nouveau modèle ou un nouveau harnais.
+
+Ces skills ne sont qu'un outil pour faciliter le travail d'évaluation de ces études ou pour faire bénéficier des lecteurs non méthodologistes d'une expertise renforcée. En aucun cas, ces outils ne doivent être considérés comme infaillibles. En particulier, ils peuvent ne pas comprendre des méthodes très inhabituelles ou des rédactions peu précises. De plus, comme nous, ils ne peuvent pas détecter la fraude bien faite. 
 
 
 ## Contributeurs
