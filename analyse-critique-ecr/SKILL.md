@@ -27,7 +27,9 @@ Si l'article rapporte simultanément 2 essais de phase 3 identiques (comme cela 
 Il faut des **preuves au-delà de tout doute raisonnable d'un bénéfice
 clinique pertinent** pour intégrer un nouveau traitement dans la
 stratégie thérapeutique. Le doute profite au statu quo, pas au
-traitement évalué.
+traitement évalué. Les tendances favorable non démontrée, même de forte 
+ampleur ou cohérentes avec des d'autres arguments ne sont pas à
+discuter car purement exploratoires.
 
 ## Workflow
 
