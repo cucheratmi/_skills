@@ -48,7 +48,13 @@ Format cible : `.md`. Style sobre, orienté décideur HTA.
 - Justification 1-2 phrases par domaine
 - Jugement global
 
-## 4. Résultats par catégorie
+## 4. Evaluation de la pertinence clinique
+- pertinence du comparateur (est-ce un comparateur loyal, correspondant ua meilleur traitement disponible à la date d'aujourd'hui ?)
+- pertinence des critères de jugement (sont-ce des critères cliniques et non pas intermédiaires ?)
+- pertinence de la taille de l'effet (la magnitude de l'effet est-elle suffisante pour être cliniquement pertinente ? en particulier vis à vis de la lourdeur du traitement, de sa safety et de la pertinence clinique du critère) 
+- pertinence des patients étudiés (la population inclus n'est pas hyper-sélectionnée par rapport à la population visée ? En cas de run-in avant randomisation, quel est son retentissement sur la pertinence clinique des patients inclus ?)
+
+## 5. Résultats par catégorie
 
 Présenter les résultats par catégorie selon `classification-resultats.md`.
 
@@ -59,14 +65,16 @@ Pour chaque catégorie, tableau standardisé :
 | … | … | … | … | … |
 
 
-## 5. Sécurité et balance bénéfice/risque
+(Évaluer la pertinence clinique à partir de la pertinence du critère, du comparateur et de la taille de l'effet traitement).
+
+## 6. Sécurité et balance bénéfice/risque
 
 - Effets indésirables susceptible de contrebalancer le bénéfice quantitativement ou qualitativement
 - Effets indésirables d'intérêt particulier
 - Décès liés au traitement
 - Calcul explicite de la balance B/R sur les principaux critères
 
-## 6. Limites et points de vigilance
+## 7. Limites et points de vigilance
 
 - Validité externe (généralisation à la population française)
 - Comparateur (loyal vs dépassé)
