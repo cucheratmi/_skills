@@ -91,7 +91,9 @@ La skill d'évaluation des essais cliniques a été évaluée à l'aide d'un ben
 
 <img src="image.png" alt="Benchmark des 24 essais" style="width: 60%; max-width: 600px; margin: 0 auto; display: block;" />
 
-Ces résultats ont été obtenus avec claude sonnet 5 high. Ce niveau de performance peut cependant être différent avec d'autres du LLM, ou niveau d'utilisation, ou harnais. Les évolutions technologiques sur ces éléments étant tellement rapide qu'une évaluation a un moment donné ne préjugera pas de la performance de ces skills ultérieurement ou avec un nouveau modèle ou un nouveau harnais.
+Ces résultats ont été obtenus avec claude sonnet 5 high. Ce niveau de performance peut cependant être différent avec un autre LLM, agent ou harnais. Les évolutions technologiques sur ces éléments étant tellement rapide qu'une évaluation a un moment donné ne préjugera pas de la performance de ces skills ultérieurement ou avec un nouveau modèle ou un nouveau harnais. 
+
+Avant utilisation il peut être judicieux de tester une skill sur 2 ou 3 études connues. Le résultat doit être cohérent avec la démarche d'analyse sur laquelle repose la skill (cf. tableau ci-dessus) et peut conduire à une analyse différente de celle effectuée avec une autre démarche ou perspective, sans que cela remette en cause la validité du résultat donné par l'IA.
 
 Ces skills ne sont que des outils pour faciliter le travail d'évaluation de ces types études ou pour apporter aux lecteurs non méthodologistes d'une expertise renforcée. En aucun cas, ces outils ne doivent être considérés comme infaillibles. En particulier, ils peuvent ne pas comprendre des méthodes très inhabituelles ou des rédactions peu précises. De plus, comme nous, ils ne peuvent pas détecter la fraude bien faite. 
 
