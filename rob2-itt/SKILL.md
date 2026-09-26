@@ -1,6 +1,10 @@
 ---
 name: "rob2-itt"
 description: "Assess risk of bias of a parallel-group RCT with Cochrane RoB 2.0 (ITT effect) from uploaded article and supplement PDFs; sourced detailed report + JSON via a Python algorithm."
+metadata:
+  author: "Initiative SPIN-OFF"
+  version: "0.1.0"
+  url: "https://github.com/cucheratmi/_skills"
 ---
 
 # RoB 2.0 - effect of assignment to intervention (ITT) - parallel-group randomized trial
