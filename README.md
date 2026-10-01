@@ -30,6 +30,7 @@ Les skills actuellement proposées (d'autres sont en développement) sont les su
 | `analyse-critique-comparaison-externe` | V0.1 | Interprétation et analyse critique d'une comparaison à un groupe contrôle externe (ECA external comparison arm). Basée sur le document de la [Société Française de Pharmacologie et de Thérapeutique](https://sfpt-fr.org/livreblancmethodo/source/GCE.pdf)  |
 | `rob2-itt` | V0.2 | Évaluation du risque de biais d'un essai clinique randomisés à l'aide de l'outil [ROB 2.0](https://www.bmj.com/content/366/bmj.l4898) dans la perspective d'évaluation de l'effet de l'assignation au traitement (analyse en intention de traiter)|
 | `analyse-critique-maic` | V0.1 | Interprétation et analyse critique d'une comparaison indirecte de type MAIC (Matched Adjusted Indirect Comparison) ancrée ou non ancrée |
+| `integrite-ecr | V0.1 | Évaluer l'intégrité méthodologique d'un ECR confirmatoire : analyse de la chronologie de l'essai (date protocole, SAP, amendement, inclusion, DCO, analyse, gel de base, levée d'aveugle, publications secondaires), détection des incohérences et déviations au protocole/SAP ; interroge PubMed et ClinicalTrials.gov via les connecteurs |
 | audit-rapport-vs-avis-ct | V0.1 | Évalue la qualité de l'évaluation d'une étude faite par l'une de ces skills en utilisant comme benchmark l'avis de transparence portant sur la même étude. Nécessite de fournir le rapport d'analyse produit par la skill et le pdf de l'avis de transparence correspondant | 
 
 >Ces skills sont encore en développement et sont susceptibles d'évoluer rapidement. Des mises à jour seront mis en ligne régulièrement. 
@@ -66,7 +67,7 @@ Installe les skills disponibles dans le Github cucheratmi/_skills (https://githu
 
 Si vous souhaitez n’installer qu'une skill particulière, le préciser dans le prompt d'installation.
 
-Il est possible d'installer les skills sans passer par les prompts. En fonction des AI cela peut se faire à l'aide du menu  (Claude, chatGPT) ou en recopiant ces fichiers dans des répertoires dédiés.
+Il est possible d'installer les skills sans passer par les prompts. En fonction des AI cela peut se faire à l'aide du menu  (Claude, chatGPT, Mistral Vibe) ou en recopiant ces fichiers dans des répertoires dédiés.
 
 > [!WARNING]
 >_Il est important d'analyser le contenu des skills avant de les installer pour écarter la possibilité de skill malveillante (par injection de prompt). Les IA font une analyse avant de faire l'installation, mais rien ne vaut une inspection visuelle du contenu de la skill._
@@ -98,6 +99,8 @@ Avant utilisation il peut être judicieux de tester une skill sur 2 ou 3 études
 Ces skills ne sont que des outils pour faciliter le travail d'évaluation de ces types études ou pour apporter aux lecteurs non méthodologistes d'une expertise renforcée. En aucun cas, ces outils ne doivent être considérés comme infaillibles. En particulier, ils peuvent ne pas comprendre des méthodes très inhabituelles ou des rédactions peu précises. De plus, comme nous, ils ne peuvent pas détecter la fraude bien faite. 
 
 Leur évaluation correcte de la pertinence clinique du comparateur ou de la taille de l'effet peut nécessiter de leur donner des points de repères dans le prompt (stratégie de traitement actuelle de ces patients, taille d'effet attendue, etc.).
+
+La qualité de l'analyse dépend grandement du harnais utilisés. Les harnais légers du type Pi, Hermes, etc. donne des résultats très inférieurs à ceux obtenus avec les outils plus avancées comme Claude, Vibe de mistral, chatGPT.  
 
 
 ## Contributeurs
